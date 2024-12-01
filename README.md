@@ -8,7 +8,7 @@ I'm fascinated by the effect of AI on our daily lives, and I look forward to cre
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bharathi.rinbox@gmail.com](mailto:bharathi.rinbox@gmail.com)
-* 🚀  I'm currently working on [SubSleuth](http://github.com/SubSleuth)
+* 🚀  I'm currently working on [ExportEase](https://github.com/vampbrain/ExportEase)
 * 🧠  I'm learning Machine Learning and Flutter
 * 🤝  I'm open to collaborating on any project that'll allow me to learn while doing
 * ⚡  I write: bharathiraghavan.blogspot.com
